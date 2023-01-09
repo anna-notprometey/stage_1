@@ -1,0 +1,22 @@
+{
+  "name": "stage_1",
+  "version": "1.0.0",
+  "description": "Automated Testing Basics in JavaScript  2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna-notprometey/stage_1.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Anna Aslamova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anna-notprometey/stage_1/issues"
+  },
+  "homepage": "https://github.com/anna-notprometey/stage_1#readme"
+}
