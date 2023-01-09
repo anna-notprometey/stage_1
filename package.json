@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/anna-notprometey/stage_1/issues"
   },
-  "homepage": "https://github.com/anna-notprometey/stage_1#readme"
+  "homepage": "https://github.com/anna-notprometey/stage_1#readme",
+  "devDependencies": {
+    "fs-extra": "^11.1.0"
+  }
 }
